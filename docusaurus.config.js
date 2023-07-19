@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   organizationName: 'topl',
-  projectName: 'developer-workshops',
+  projectName: 'Developer-Workshops',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
