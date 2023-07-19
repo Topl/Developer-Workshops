@@ -12,7 +12,7 @@ const config = {
   url: 'https://topl.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/developer-workshops/',
+  baseUrl: '/Developer-Workshops/',
 
   // GitHub pages deployment config.
   organizationName: 'topl',
