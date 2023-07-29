@@ -1,3 +1,7 @@
+---
+sidebar_postion: 1
+---
+
 # Getting Started
 
 Welcome to Topl's developer workshop. This workshop will guide you through the process of creating a simple smart contract, deploying it to the Topl blockchain, and interacting with it using the Topl CLI.
@@ -18,17 +22,7 @@ The DAML SDK requires JDK 11 or higher. You can download it here: https://adopti
 
 The DAML SDK is a set of tools that allow you to write, test, and deploy DAML smart contracts. You can download the SDK here: https://docs.daml.com/getting-started/installation.html
 
-## Create your first contract
-
-```
-
-```
-
-## Deploy your contract
-
-## Interact with your contract
 
 ## Next Steps
 
-Congratulations! You've successfully created, deployed, and interacted with your first smart contract on the Topl blockchain. Now that you've completed this workshop, you can move on to the next one to learn how to create a more complex smart contract.
-
+Congratulations! You've successfully installed the tools you need to start developing DAML smart contracts. Now that you've completed this part of the workshop, you can move on to the next one to learn how to create your first smart contract.
