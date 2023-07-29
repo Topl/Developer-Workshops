@@ -94,16 +94,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/nvaFy4HpUA',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/topl_protocol',
               },
             ],
           },
@@ -111,13 +107,17 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Blog',
+                href: 'https://medium.com/topl-blog',
+              },
+              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/topl/Developer-Workshops',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Topl`,
       },
       prism: {
         theme: lightCodeTheme,
