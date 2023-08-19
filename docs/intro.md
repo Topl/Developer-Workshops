@@ -12,7 +12,7 @@ Welcome to Topl's developer workshop. This workshop will guide you through the p
 
 Visual Studio Code is the recommended IDE for developing DAML smart contracts. You can download it here: https://code.visualstudio.com/download
 
-Once installed, you will need to install the [DAML extension](https://marketplace.visualstudio.com/items?itemName=digitalasset.daml)
+Once installed, you will need to install the [DAML extension](https://marketplace.visualstudio.com/items?itemName=DigitalAssetHoldingsLLC.daml)
 
 ### 2. Install the Java JDK 11 or higher
 
